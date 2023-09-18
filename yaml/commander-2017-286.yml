@@ -1,0 +1,113 @@
+---
+object: card
+id: 34ae81d1-7858-4790-aca8-d5cd7735d67a
+oracle_id: a5478263-47c9-447f-9c7a-c77ce0752947
+multiverse_ids:
+- 433218
+tcgplayer_id: 140137
+cardmarket_id: 300594
+name: Tranquil Expanse
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/34ae81d1-7858-4790-aca8-d5cd7735d67a
+scryfall_uri: https://scryfall.com/card/c17/286/tranquil-expanse?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/4/34ae81d1-7858-4790-aca8-d5cd7735d67a.jpg?1562604650
+  normal: https://cards.scryfall.io/normal/front/3/4/34ae81d1-7858-4790-aca8-d5cd7735d67a.jpg?1562604650
+  large: https://cards.scryfall.io/large/front/3/4/34ae81d1-7858-4790-aca8-d5cd7735d67a.jpg?1562604650
+  png: https://cards.scryfall.io/png/front/3/4/34ae81d1-7858-4790-aca8-d5cd7735d67a.png?1562604650
+  art_crop: https://cards.scryfall.io/art_crop/front/3/4/34ae81d1-7858-4790-aca8-d5cd7735d67a.jpg?1562604650
+  border_crop: https://cards.scryfall.io/border_crop/front/3/4/34ae81d1-7858-4790-aca8-d5cd7735d67a.jpg?1562604650
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Tranquil Expanse enters the battlefield tapped.
+  {T}: Add {G} or {W}.
+colors: []
+color_identity:
+- G
+- W
+keywords: []
+produced_mana:
+- G
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set: c17
+set_name: Commander 2017
+set_type: commander
+set_uri: https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/34ae81d1-7858-4790-aca8-d5cd7735d67a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa5478263-47c9-447f-9c7a-c77ce0752947&unique=prints
+collector_number: '286'
+digital: false
+rarity: uncommon
+flavor_text: Despite the chaos of the Roil and the devastation of the Eldrazi, Zendikar
+  is a world of breathtaking beauty.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cliff Childs
+artist_ids:
+- ed6f7e03-20ba-4c73-bdda-4a4928480721
+illustration_id: 6b828c66-65c0-48d3-877b-cbe3104c1bbb
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 5380
+penny_rank: 1679
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433218
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tranquil+Expanse&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tranquil+Expanse&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tranquil+Expanse
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/140137?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tranquil+Expanse&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tranquil+Expanse&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

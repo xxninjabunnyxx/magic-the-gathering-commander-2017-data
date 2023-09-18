@@ -1,0 +1,113 @@
+---
+object: card
+id: 8736fd50-312e-47e2-8337-997c2acf48d9
+oracle_id: a3c672b8-9c7d-47cc-877b-580904c6d72b
+multiverse_ids:
+- 433001
+tcgplayer_id: 140020
+cardmarket_id: 300389
+name: Raksha Golden Cub
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/8736fd50-312e-47e2-8337-997c2acf48d9
+scryfall_uri: https://scryfall.com/card/c17/69/raksha-golden-cub?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/7/8736fd50-312e-47e2-8337-997c2acf48d9.jpg?1562615429
+  normal: https://cards.scryfall.io/normal/front/8/7/8736fd50-312e-47e2-8337-997c2acf48d9.jpg?1562615429
+  large: https://cards.scryfall.io/large/front/8/7/8736fd50-312e-47e2-8337-997c2acf48d9.jpg?1562615429
+  png: https://cards.scryfall.io/png/front/8/7/8736fd50-312e-47e2-8337-997c2acf48d9.png?1562615429
+  art_crop: https://cards.scryfall.io/art_crop/front/8/7/8736fd50-312e-47e2-8337-997c2acf48d9.jpg?1562615429
+  border_crop: https://cards.scryfall.io/border_crop/front/8/7/8736fd50-312e-47e2-8337-997c2acf48d9.jpg?1562615429
+mana_cost: "{5}{W}{W}"
+cmc: 7.0
+type_line: Legendary Creature — Cat Soldier
+oracle_text: |-
+  Vigilance
+  As long as Raksha Golden Cub is equipped, Cat creatures you control get +2/+2 and have double strike.
+power: '3'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Vigilance
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set: c17
+set_name: Commander 2017
+set_type: commander
+set_uri: https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8736fd50-312e-47e2-8337-997c2acf48d9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3c672b8-9c7d-47cc-877b-580904c6d72b&unique=prints
+collector_number: '69'
+digital: false
+rarity: rare
+flavor_text: Some believe that Raksha, youngest of the kha, is the reincarnation of
+  Dakan, the first and mightiest of leonin leaders.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: 5b8a60e7-9e87-4e46-958f-e320d203ee78
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9391
+prices:
+  usd: '0.37'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.39'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433001
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Raksha+Golden+Cub&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Raksha+Golden+Cub&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Raksha+Golden+Cub
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/140020?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Raksha+Golden+Cub&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Raksha+Golden+Cub&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

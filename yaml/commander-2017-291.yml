@@ -1,0 +1,114 @@
+---
+object: card
+id: b9ec7aed-5d90-43f5-90e4-9c0541b54fa8
+oracle_id: b7a68899-c0d3-49e0-854b-19268ae9b89d
+multiverse_ids:
+- 433223
+tcgplayer_id: 140142
+cardmarket_id: 300599
+name: Vivid Grove
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8
+scryfall_uri: https://scryfall.com/card/c17/291/vivid-grove?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/9/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8.jpg?1562621661
+  normal: https://cards.scryfall.io/normal/front/b/9/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8.jpg?1562621661
+  large: https://cards.scryfall.io/large/front/b/9/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8.jpg?1562621661
+  png: https://cards.scryfall.io/png/front/b/9/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8.png?1562621661
+  art_crop: https://cards.scryfall.io/art_crop/front/b/9/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8.jpg?1562621661
+  border_crop: https://cards.scryfall.io/border_crop/front/b/9/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8.jpg?1562621661
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Vivid Grove enters the battlefield tapped with two charge counters on it.
+  {T}: Add {G}.
+  {T}, Remove a charge counter from Vivid Grove: Add one mana of any color.
+colors: []
+color_identity:
+- G
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set: c17
+set_name: Commander 2017
+set_type: commander
+set_uri: https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b9ec7aed-5d90-43f5-90e4-9c0541b54fa8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab7a68899-c0d3-49e0-854b-19268ae9b89d&unique=prints
+collector_number: '291'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Howard Lyon
+artist_ids:
+- 6dd06426-59fe-4b9c-aad5-6da8446a5c3d
+illustration_id: 40c871ea-a7be-412b-94d3-b3b3c11ac36e
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1907
+penny_rank: 378
+prices:
+  usd: '0.19'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.45'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433223
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vivid+Grove&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vivid+Grove&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vivid+Grove
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/140142?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vivid+Grove&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vivid+Grove&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

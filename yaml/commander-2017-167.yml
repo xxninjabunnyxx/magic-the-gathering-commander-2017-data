@@ -1,0 +1,113 @@
+---
+object: card
+id: 2ab2b411-912f-4cb6-b4ca-f545ca8820d5
+oracle_id: ee81f37b-2a81-46d7-8d2f-9091123846c4
+multiverse_ids:
+- 433099
+tcgplayer_id: 139922
+cardmarket_id: 300482
+name: Crackling Doom
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/2ab2b411-912f-4cb6-b4ca-f545ca8820d5
+scryfall_uri: https://scryfall.com/card/c17/167/crackling-doom?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/a/2ab2b411-912f-4cb6-b4ca-f545ca8820d5.jpg?1562603221
+  normal: https://cards.scryfall.io/normal/front/2/a/2ab2b411-912f-4cb6-b4ca-f545ca8820d5.jpg?1562603221
+  large: https://cards.scryfall.io/large/front/2/a/2ab2b411-912f-4cb6-b4ca-f545ca8820d5.jpg?1562603221
+  png: https://cards.scryfall.io/png/front/2/a/2ab2b411-912f-4cb6-b4ca-f545ca8820d5.png?1562603221
+  art_crop: https://cards.scryfall.io/art_crop/front/2/a/2ab2b411-912f-4cb6-b4ca-f545ca8820d5.jpg?1562603221
+  border_crop: https://cards.scryfall.io/border_crop/front/2/a/2ab2b411-912f-4cb6-b4ca-f545ca8820d5.jpg?1562603221
+mana_cost: "{R}{W}{B}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices
+  a creature with the greatest power among creatures that player controls.
+colors:
+- B
+- R
+- W
+color_identity:
+- B
+- R
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set: c17
+set_name: Commander 2017
+set_type: commander
+set_uri: https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2ab2b411-912f-4cb6-b4ca-f545ca8820d5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee81f37b-2a81-46d7-8d2f-9091123846c4&unique=prints
+collector_number: '167'
+digital: false
+rarity: rare
+flavor_text: Do not fear the lightning. Fear the one it obeys.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yohann Schepacz
+artist_ids:
+- c40c8ec8-d8b3-48a5-8de2-a7c96cbded5b
+illustration_id: 8ab37866-af45-4960-857c-8ae62bc7f39d
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1512
+penny_rank: 2616
+prices:
+  usd: '0.32'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433099
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Crackling+Doom&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Crackling+Doom&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Crackling+Doom
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/139922?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crackling+Doom&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Crackling+Doom&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

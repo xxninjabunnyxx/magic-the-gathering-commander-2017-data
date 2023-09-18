@@ -1,0 +1,109 @@
+---
+object: card
+id: ccff131c-2a66-4ebf-97f1-774c9f41b222
+oracle_id: ca204b66-8d0c-431a-8d34-282f7c2d17da
+multiverse_ids:
+- 433147
+tcgplayer_id: 139961
+cardmarket_id: 300528
+name: Lightning Greaves
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/ccff131c-2a66-4ebf-97f1-774c9f41b222
+scryfall_uri: https://scryfall.com/card/c17/215/lightning-greaves?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/c/ccff131c-2a66-4ebf-97f1-774c9f41b222.jpg?1562623829
+  normal: https://cards.scryfall.io/normal/front/c/c/ccff131c-2a66-4ebf-97f1-774c9f41b222.jpg?1562623829
+  large: https://cards.scryfall.io/large/front/c/c/ccff131c-2a66-4ebf-97f1-774c9f41b222.jpg?1562623829
+  png: https://cards.scryfall.io/png/front/c/c/ccff131c-2a66-4ebf-97f1-774c9f41b222.png?1562623829
+  art_crop: https://cards.scryfall.io/art_crop/front/c/c/ccff131c-2a66-4ebf-97f1-774c9f41b222.jpg?1562623829
+  border_crop: https://cards.scryfall.io/border_crop/front/c/c/ccff131c-2a66-4ebf-97f1-774c9f41b222.jpg?1562623829
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact — Equipment
+oracle_text: |-
+  Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+  Equip {0}
+colors: []
+color_identity: []
+keywords:
+- Equip
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set: c17
+set_name: Commander 2017
+set_type: commander
+set_uri: https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ccff131c-2a66-4ebf-97f1-774c9f41b222/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aca204b66-8d0c-431a-8d34-282f7c2d17da&unique=prints
+collector_number: '215'
+digital: false
+rarity: uncommon
+flavor_text: After lightning struck the cliffs, the ore became iron, the iron became
+  steel, and the steel became greaves. The lightning never left.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeremy Jarvis
+artist_ids:
+- b40ac320-89b4-4c51-a85f-4a4b63ae614e
+illustration_id: 10308440-8eee-4db0-8862-1ad72ada96a1
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 13
+penny_rank: 705
+prices:
+  usd: '5.30'
+  usd_foil: 
+  usd_etched: 
+  eur: '4.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433147
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lightning+Greaves&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lightning+Greaves&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lightning+Greaves
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/139961?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lightning+Greaves&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lightning+Greaves&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

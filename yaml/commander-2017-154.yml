@@ -1,0 +1,110 @@
+---
+object: card
+id: a7c50aca-57a1-4c25-9958-1be72365b3b9
+oracle_id: 1593ea18-2f2f-4ab4-83fb-6ccc0bec8a90
+multiverse_ids:
+- 433086
+tcgplayer_id: 139972
+cardmarket_id: 300469
+name: Kodama's Reach
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/a7c50aca-57a1-4c25-9958-1be72365b3b9
+scryfall_uri: https://scryfall.com/card/c17/154/kodamas-reach?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a7c50aca-57a1-4c25-9958-1be72365b3b9.jpg?1562619488
+  normal: https://cards.scryfall.io/normal/front/a/7/a7c50aca-57a1-4c25-9958-1be72365b3b9.jpg?1562619488
+  large: https://cards.scryfall.io/large/front/a/7/a7c50aca-57a1-4c25-9958-1be72365b3b9.jpg?1562619488
+  png: https://cards.scryfall.io/png/front/a/7/a7c50aca-57a1-4c25-9958-1be72365b3b9.png?1562619488
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a7c50aca-57a1-4c25-9958-1be72365b3b9.jpg?1562619488
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a7c50aca-57a1-4c25-9958-1be72365b3b9.jpg?1562619488
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Sorcery — Arcane
+oracle_text: Search your library for up to two basic land cards, reveal those cards,
+  put one onto the battlefield tapped and the other into your hand, then shuffle.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set: c17
+set_name: Commander 2017
+set_type: commander
+set_uri: https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a7c50aca-57a1-4c25-9958-1be72365b3b9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1593ea18-2f2f-4ab4-83fb-6ccc0bec8a90&unique=prints
+collector_number: '154'
+digital: false
+rarity: common
+flavor_text: |-
+  "The land grows only where the kami will it."
+  —Dosan the Falling Leaf
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: 796d5de6-48ea-4c35-b43a-3f6ff0903748
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 31
+penny_rank: 5957
+prices:
+  usd: '2.04'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433086
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kodama%27s+Reach&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kodama%27s+Reach&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kodama%27s+Reach
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/139972?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kodama%27s+Reach&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kodama%27s+Reach&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

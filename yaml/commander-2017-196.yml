@@ -1,0 +1,115 @@
+---
+object: card
+id: 88eba680-a0d7-4356-bf74-7986a51e545f
+oracle_id: 86b8a9ef-7cdf-47e9-accb-16fe1eab718f
+multiverse_ids:
+- 433128
+tcgplayer_id: 140040
+cardmarket_id: 300509
+name: Spellbound Dragon
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/88eba680-a0d7-4356-bf74-7986a51e545f
+scryfall_uri: https://scryfall.com/card/c17/196/spellbound-dragon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/8/88eba680-a0d7-4356-bf74-7986a51e545f.jpg?1562615814
+  normal: https://cards.scryfall.io/normal/front/8/8/88eba680-a0d7-4356-bf74-7986a51e545f.jpg?1562615814
+  large: https://cards.scryfall.io/large/front/8/8/88eba680-a0d7-4356-bf74-7986a51e545f.jpg?1562615814
+  png: https://cards.scryfall.io/png/front/8/8/88eba680-a0d7-4356-bf74-7986a51e545f.png?1562615814
+  art_crop: https://cards.scryfall.io/art_crop/front/8/8/88eba680-a0d7-4356-bf74-7986a51e545f.jpg?1562615814
+  border_crop: https://cards.scryfall.io/border_crop/front/8/8/88eba680-a0d7-4356-bf74-7986a51e545f.jpg?1562615814
+mana_cost: "{3}{U}{R}"
+cmc: 5.0
+type_line: Creature — Dragon
+oracle_text: |-
+  Flying
+  Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's mana value.
+power: '3'
+toughness: '5'
+colors:
+- R
+- U
+color_identity:
+- R
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set: c17
+set_name: Commander 2017
+set_type: commander
+set_uri: https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/88eba680-a0d7-4356-bf74-7986a51e545f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A86b8a9ef-7cdf-47e9-accb-16fe1eab718f&unique=prints
+collector_number: '196'
+digital: false
+rarity: rare
+flavor_text: A king in Jund, a serf in Esper.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Ejsing
+artist_ids:
+- a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d
+illustration_id: ebd2fb3f-6d1c-46bd-b057-f7dcf03a15e0
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 13660
+penny_rank: 8448
+prices:
+  usd: '0.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433128
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spellbound+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spellbound+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spellbound+Dragon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/140040?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spellbound+Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spellbound+Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

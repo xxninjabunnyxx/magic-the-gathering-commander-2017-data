@@ -1,0 +1,129 @@
+---
+object: card
+id: 8dba9786-a504-49d0-9558-b70bf05bb694
+oracle_id: a2529491-7389-4cfa-92d2-145eda779603
+multiverse_ids:
+- 433139
+tcgplayer_id: 139930
+cardmarket_id: 300520
+name: Darksteel Ingot
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/8dba9786-a504-49d0-9558-b70bf05bb694
+scryfall_uri: https://scryfall.com/card/c17/207/darksteel-ingot?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/d/8dba9786-a504-49d0-9558-b70bf05bb694.jpg?1562616141
+  normal: https://cards.scryfall.io/normal/front/8/d/8dba9786-a504-49d0-9558-b70bf05bb694.jpg?1562616141
+  large: https://cards.scryfall.io/large/front/8/d/8dba9786-a504-49d0-9558-b70bf05bb694.jpg?1562616141
+  png: https://cards.scryfall.io/png/front/8/d/8dba9786-a504-49d0-9558-b70bf05bb694.png?1562616141
+  art_crop: https://cards.scryfall.io/art_crop/front/8/d/8dba9786-a504-49d0-9558-b70bf05bb694.jpg?1562616141
+  border_crop: https://cards.scryfall.io/border_crop/front/8/d/8dba9786-a504-49d0-9558-b70bf05bb694.jpg?1562616141
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: |-
+  Indestructible
+  {T}: Add one mana of any color.
+colors: []
+color_identity: []
+keywords:
+- Indestructible
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+all_parts:
+- object: related_card
+  id: 0ea01eca-5ffc-4678-92f1-9c35fbf4a362
+  component: combo_piece
+  name: Darksteel Hydra
+  type_line: Artifact Creature — Phyrexian Hydra
+  uri: https://api.scryfall.com/cards/0ea01eca-5ffc-4678-92f1-9c35fbf4a362
+- object: related_card
+  id: 8dba9786-a504-49d0-9558-b70bf05bb694
+  component: combo_piece
+  name: Darksteel Ingot
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/8dba9786-a504-49d0-9558-b70bf05bb694
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set: c17
+set_name: Commander 2017
+set_type: commander
+set_uri: https://api.scryfall.com/sets/5caec427-0c78-4c37-b4ec-30f7e0ba9abf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8dba9786-a504-49d0-9558-b70bf05bb694/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa2529491-7389-4cfa-92d2-145eda779603&unique=prints
+collector_number: '207'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "It reflects the purity of Mirrodin-that-was."
+  —Koth of the Hammer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Martina Pilcerova
+artist_ids:
+- 30fead7c-da53-4c1b-b514-4be6e5ce487c
+illustration_id: fa864803-3d08-49ac-a040-0e4d2cc4fd86
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 938
+penny_rank: 4107
+prices:
+  usd: '0.33'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433139
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Darksteel+Ingot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Darksteel+Ingot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Darksteel+Ingot
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/139930?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Darksteel+Ingot&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Darksteel+Ingot&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
